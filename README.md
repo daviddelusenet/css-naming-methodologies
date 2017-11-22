@@ -13,7 +13,7 @@ This repo gives an overview of multiple CSS naming methodologies and their pros 
 
 **Pros**
 
-- -Component based
+- Component based
 - Very flexible, suitable for small and big projects
 - Big community so most problems/questions you will face are already 'solved' by others
 - No more specificity issues
